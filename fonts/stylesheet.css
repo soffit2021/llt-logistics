@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Optima LT Std';
+    src: url('OptimaLTStd-Medium.eot');
+    src: url('OptimaLTStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('OptimaLTStd-Medium.woff') format('woff'),
+        url('OptimaLTStd-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
